@@ -81,6 +81,16 @@ internet-quality-monitor/
 └── README.md
 
 ## Screenshots
+<img width="1907" height="915" alt="Screenshot 2026-11-22 172638" src="https://github.com/user-attachments/assets/54fece54-b933-42ff-bdc6-4b7e3e4f3ded" />
+<img width="1557" height="378" alt="Screenshot 2026-11-22 172652" src="https://github.com/user-attachments/assets/08895df6-ca83-485d-81fd-0cdc601040b5" />
+<img width="1542" height="431" alt="Screenshot 2026-11-22 172706" src="https://github.com/user-attachments/assets/f52010c1-5f0e-4595-a212-3f33297e29f5" />
+<img width="1547" height="832" alt="Screenshot 2026-11-22 172719" src="https://github.com/user-attachments/assets/11824932-1415-4b93-800f-05e9421c43c8" />
+<img width="1547" height="850" alt="Screenshot 2026-11-22 172741" src="https://github.com/user-attachments/assets/9036d18b-f4e9-4427-a0d4-8713d050457d" />
+<img width="1582" height="857" alt="Screenshot 2026-11-22 172804" src="https://github.com/user-attachments/assets/14b417b3-f9e3-4d2c-bdc2-f876ed531968" />
+<img width="1557" height="893" alt="Screenshot 2026-11-22 172825" src="https://github.com/user-attachments/assets/f96c01bf-534b-4c88-b7cd-700d9ee2960c" />
+<img width="1547" height="726" alt="Screenshot 2026-11-22 172844" src="https://github.com/user-attachments/assets/659a88fa-8251-42c4-a3f8-9053ae48fa03" />
+<img width="1488" height="867" alt="Screenshot 2026-11-22 172922" src="https://github.com/user-attachments/assets/5c610f38-dfeb-4ba5-8d38-342a9de9450e" />
+<img width="1506" height="575" alt="Screenshot 2026-11-22 172945" src="https://github.com/user-attachments/assets/8dcb60fa-d496-44d9-91bc-c877f1db56af" />
 
 
 
